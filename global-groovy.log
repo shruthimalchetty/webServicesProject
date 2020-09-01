@@ -1,0 +1,4 @@
+2020-09-01 11:22:48,123 INFO  [log] Status=FINISHED, time taken to complete is: 44368 ms
+2020-09-01 11:22:48,156 INFO  [log] number of test steps executed are: 6
+2020-09-01 11:23:32,543 INFO  [log] Status=FINISHED, time taken to complete is: 44319 ms
+2020-09-01 11:23:32,545 INFO  [log] number of test steps executed are: 6
